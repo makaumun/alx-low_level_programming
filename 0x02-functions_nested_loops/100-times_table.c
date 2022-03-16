@@ -10,7 +10,7 @@ int _putchar(char c);
  * Return: No return
  */
 
-void times_table(int n)
+int times_table(int n)
 {
 	int i;
 	int j;
